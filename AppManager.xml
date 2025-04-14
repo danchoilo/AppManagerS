@@ -1,0 +1,12 @@
+<Applications>
+    <Application>
+        <Name>Notepad++</Name>
+        <Version>8.5.7</Version>
+        <Description>A free source code editor</Description>
+    </Application>
+    <Application>
+        <Name>VLC Media Player</Name>
+        <Version>3.0.18</Version>
+        <Description>A free multimedia player</Description>
+    </Application>
+</Applications>
