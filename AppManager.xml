@@ -1,12 +1,21 @@
 <Applications>
+    <Applications>
     <Application>
         <Name>Notepad++</Name>
         <Version>8.5.7</Version>
-        <Description>A free source code editor</Description>
+        <Note>A free source code editor</Note>
+        <DownloadLink>https://example.com/downloads/notepad.exe</DownloadLink>
+        <FileSize>5242880</FileSize>
+        <Hash>abc123...</Hash>
     </Application>
+<Applications>
     <Application>
-        <Name>VLC Media Player</Name>
-        <Version>3.0.18</Version>
-        <Description>A free multimedia player</Description>
+        <Name>Notepad++</Name>
+        <Version>8.5.7</Version>
+        <Note>A free source code editor</Note>
+        <DownloadLink>https://example.com/downloads/notepad.exe</DownloadLink>
+        <FileSize>5242880</FileSize>
+        <Hash>abc123...</Hash>
     </Application>
+</Applications>
 </Applications>
