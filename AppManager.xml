@@ -1,21 +1,9 @@
 <Applications>
-    <Applications>
     <Application>
         <Name>Notepad++</Name>
-        <Version>8.5.7</Version>
         <Note>A free source code editor</Note>
         <DownloadLink>https://example.com/downloads/notepad.exe</DownloadLink>
         <FileSize>5242880</FileSize>
         <Hash>abc123...</Hash>
     </Application>
-<Applications>
-    <Application>
-        <Name>Notepad++</Name>
-        <Version>8.5.7</Version>
-        <Note>A free source code editor</Note>
-        <DownloadLink>https://example.com/downloads/notepad.exe</DownloadLink>
-        <FileSize>5242880</FileSize>
-        <Hash>abc123...</Hash>
-    </Application>
-</Applications>
 </Applications>
