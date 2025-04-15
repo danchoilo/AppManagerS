@@ -6,4 +6,11 @@
         <FileSize>5242880</FileSize>
         <Hash>abc123...</Hash>
     </Application>
+    <Application>
+        <Name>Bản 3</Name>
+        <Note>A free source code editor</Note>
+        <DownloadLink>https://github.com/danchoilo/MU/raw/main/4.exe</DownloadLink>
+        <FileSize>5242880</FileSize>
+        <Hash>abc123...</Hash>
+    </Application>
 </Applications>
